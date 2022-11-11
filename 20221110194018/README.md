@@ -1,18 +1,16 @@
-# Et si on redémarrait l'agile ? - Arnaud Lemaire
+# What if we restart Agile ? - Arnaud Lemaire
 
-* L'agilité est devenu autre chose que ce pourquoi elle a été créée.
-* La plupart des auteurs du manifeste agile ont écris un livre sur pourquoi
-tuer l'agile.
+* Agile nowadays is not what it was supposed to be 
+* Authors of the Agile Manifest wrote some book about shutting down agile 
     * The Failure of Agile - Andy Hunt
     * The Tragedy of Craftsmanship - Robert C. Martin
     * Time to Kill Agile - D.Thomas
-* L'agile est devenu un buzzword.
-    * Project Manager se renomme Product Owner
-    * Ratio Man/Day -> Points convertis ensuite en Man/Day
-    * Product Release tous les 6 mois -> Idem avec des sprints de deux semaines.
-* Un autre anti pattern est de "More X to solve X". "Follow + le scrum guide"
-    * Ça ne marche pas.
-
+* It became a buzzword, everything was still the same
+    * Project Manager called himself Product Owner
+    * Ratio Man/Day -> Points converted into Man/Day
+    * Product Release every 6 month -> Same thing with sprint of two weeks
+* You can't solve X by doing more X. "Let's follow more the scrum guide !"
+    * It doesn't work
 
 * https://www.youtube.com/watch?v=sZbmP0JZHBs
 
