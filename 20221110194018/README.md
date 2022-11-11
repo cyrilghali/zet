@@ -4,7 +4,7 @@
 * Authors of the Agile Manifest wrote some book about shutting down agile 
     * The Failure of Agile - Andy Hunt
     * The Tragedy of Craftsmanship - Robert C. Martin
-    * Time to Kill Agile - D.Thomas
+    * Time to Kill Agile - D. Thomas
 * It became a buzzword, everything was still the same
     * Project Manager called himself Product Owner
     * Ratio Man/Day -> Points converted into Man/Day
