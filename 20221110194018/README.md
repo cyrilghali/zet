@@ -9,7 +9,7 @@
     * Project Manager called himself Product Owner
     * Ratio Man/Day -> Points converted into Man/Day
     * Product Release every 6 month -> Same thing with sprint of two weeks
-* You can't solve X by doing more X. "Let's follow more the scrum guide !"
+* You can't solve X by doing more X. “Let's follow more the scrum guide !”
     * It doesn't work
 
 * https://www.youtube.com/watch?v=sZbmP0JZHBs
