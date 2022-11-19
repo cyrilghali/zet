@@ -17,7 +17,7 @@ So here are some rules I've followed since then:
 
 I spend most of my time consuming videos on how to do things, instead of doing
 them.
-I'm a man of practice, I should just gets my hands dirty. That's how I learn.
+I'm a man of practice, I should just get my hands dirty. That's how I learn.
 So one gold rule here:
 
 * Experiment, do not ask google every question you have. More fun.
