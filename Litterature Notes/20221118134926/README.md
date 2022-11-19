@@ -26,4 +26,4 @@ Exemple d'un appel:
   optimisait les couts de 20%. Est ce qu'on pourrait s'accorder un entretien
   pour en discuter plus longuement?"
 
-  #sales #call #practices
+  #sales #call #practices #course #epita
